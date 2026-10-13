@@ -39,3 +39,26 @@ I bridge the gap between complex remote sensing datasets and actionable business
                                 │
                                 ▼  (PyQGIS Automation)
    [ GEOINT Imagery Analysis Reports ] (Automated Executive & Spatial Intelligence PDFs)
+
+---
+
+### 📂 Featured Project: Cloud-Native Automated EO Analytics Pipeline
+
+#### 🛰️ [sentinel2-gee-automated-analytics](https://github.com/n3xus-6/sentinel2-gee-automated-analytics)
+> **End-to-End Automated Satellite Data Ingestion, Multi-Sensor Analytics & GEOINT Reporting**
+
+* **Description:** A Python-based workflow utilizing the Google Earth Engine (`ee`) API to automate the processing of multi-spectral and SAR satellite imagery over designated Areas of Interest (AOIs).
+* **Key Features:**
+  * **Automated Cloud & Shadow Masking:** Filters out cloud cover and atmospheric noise to generate seamless temporal composites.
+  * **Index & SAR Analysis:** Automatically computes **NDVI**, **NDWI**, and radar backscatter metrics across custom spatial boundaries.
+  * **Tabular Metrics Extraction:** Extracts statistical metrics (Mean, Median, StdDev) into structured formats (CSV/JSON) for risk, defense, and spatial analytics.
+  * **Headless PyQGIS GEOINT Reporting:** Integrates with PyQGIS (`qgis.core`) to populate spatial layout templates and generate executive GEOINT imagery analysis reports in PDF without GUI interaction.
+
+---
+
+### 📬 Let's Connect
+
+I am exclusively available for **specialized B2B remote contract roles** (Contractor) with **European companies** (Switzerland, DACH region, Benelux, UK, and EU-wide), providing end-to-end Earth Observation automation, spatial data pipelines, and decision-intelligence solutions.
+
+- **Email:** [albertohitos.management@gmail.com](mailto:albertohitos.management@gmail.com)
+- **LinkedIn:** [linkedin.com/in/alberto-hitos-navajas-70a9b2405](https://www.linkedin.com/in/alberto-hitos-navajas-70a9b2405)
